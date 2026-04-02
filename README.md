@@ -15,8 +15,24 @@ The goal is to help businesses:
 - Python  
 - Pandas & NumPy (data manipulation)  
 - Matplotlib & Seaborn (data visualization)  
-- Scikit-learn (machine learning models)  
+- Scikit-learn (machine learning models)
 
+---
+## Repository Structure
+
+FUTURE_ML_01/
+│
+├── images/                         # Contains all generated visualizations and plots
+│   ├── avg_sales_month.png         # Average sales per month (seasonality analysis)
+│   ├── category_sales.png          # Total sales by product category
+│   ├── complete_sales_forecast.png # Full forecast visualization (actual vs predicted sales)
+│   ├── Evaluation_of_Models.png    # Comparison of model performance (MAE, RMSE, R², etc.)
+│   ├── feature_correlation.png     # Correlation matrix of features
+│   └── monthly_sales_trend.png     # Monthly sales trend over time
+│
+├── FUTURE_ML_01_Sales.ipynb        # Main notebook (EDA, feature engineering, modeling, forecasting)
+│
+└── README.md                      # this file
 ---
 
 ##  Project Workflow
@@ -61,4 +77,6 @@ The goal is to help businesses:
 - Discount strategies impact profitability and should be optimized  
 
 ---
+## Dataset
+Superstore Sales Dataset:https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
