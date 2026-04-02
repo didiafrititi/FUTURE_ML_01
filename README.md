@@ -33,6 +33,7 @@ FUTURE_ML_01/
 ├── FUTURE_ML_01_Sales.ipynb        # Main notebook (EDA, feature engineering, modeling, forecasting)
 │
 └── README.md                      # this file
+
 ---
 
 ##  Project Workflow
